@@ -1,6 +1,6 @@
 # Fashion-recommender
 
-A Recommender System that takes a image as input  then find five visually simliar images from the database and generate recommendition.It is bulit using **KNN(K nearest neighbours
+A Recommender System that takes a image as input  then find five visually simliar images from the database and generate recommendition.It is built using **KNN(K nearest neighbours
 a Machine learning algorithm)** and **ResNet (Deep Learning CNN architecture)** is used for feature extraction from the images.it works on the concept of **Reverse image search**
 
 From Wikipedia,**Reverse Image Search** is a content-based image retrieval query technique that involves providing CBIR system with a sample image that it will then base its search
